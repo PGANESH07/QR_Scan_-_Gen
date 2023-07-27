@@ -1,2 +1,4 @@
 # QR_Scan_-_Gen
-a qr scanner and generating app made with flutter
+A QR scanner and generating app made with flutter
+
+Apks available in Apps Folder.
